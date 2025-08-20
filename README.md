@@ -75,9 +75,3 @@ Additionally, it includes a **stock price analysis** of selected companies to pr
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/financial-risk-analysis.git
-   cd financial-risk-analysis
